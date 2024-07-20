@@ -5,8 +5,7 @@
 ## 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smc-killua-294893274) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://todaviano)
-![linea](https://github.com/user-attachments/assets/8bfea091-5c4d-44ba-9293-af4460254f58)
-adge&logo=python&logoColor=white)
+---
 
 ## 🛠️ **Skills**
 
