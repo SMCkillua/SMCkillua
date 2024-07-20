@@ -1,6 +1,6 @@
 # 👨‍💻 [Your Name]'s Repository
 
-Welcome to my portfolio! Here you will find information about the technologies and frameworks I work with.
+Welcome to my repository! Here you will find information about the technologies and frameworks I work with.
 
 ## Programming Languages
 
@@ -53,7 +53,7 @@ Welcome to my portfolio! Here you will find information about the technologies a
 - **Emoji:** 🐬
 
 ### Sequelize
-![Sequelize](https://sequelize.org/img/logo.svg)
+<img src="https://sequelize.org/img/logo.svg" alt="Sequelize" height="48">
 - **ORM:** Sequelize
 - **Description:** Sequelize is a promise-based Node.js ORM for various SQL databases.
 - **Emoji:** 🔄
@@ -68,9 +68,4 @@ Welcome to my portfolio! Here you will find information about the technologies a
 
 ---
 
-## Contact Me
-- **Email:** [youremail@domain.com](mailto:youremail@domain.com)
-- **LinkedIn:** [yourLinkedInProfile](https://www.linkedin.com/in/yourProfile/)
-- **GitHub:** [yourGitHubProfile](https://github.com/yourProfile)
-
-Thank you for visiting my portfolio! 🚀
+Thank you for visiting my repository! 🚀
