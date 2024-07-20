@@ -30,50 +30,18 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
----
-
-## 📚 **Projects**
-
-### [Project Name 1](https://github.com/yourusername/project1)
-![Project Image](https://yourimageurl.com/project1.png)
-**Description:** A brief description of your project. Highlight the tech stack and any significant features or achievements.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-![Project Image](https://yourimageurl.com/project2.png)
-**Description:** A brief description of your project. Highlight the tech stack and any significant features or achievements.
-
-### [Project Name 3](https://github.com/yourusername/project3)
-![Project Image](https://yourimageurl.com/project3.png)
-**Description:** A brief description of your project. Highlight the tech stack and any significant features or achievements.
-
----
-
-## 💼 **Experience**
-
-### [Job Title](https://companywebsite.com)
-**Company Name** - City, Country | YYYY-MM to Present
-- Bullet point achievements and responsibilities
-- Use action words and quantify results when possible
-
-### [Job Title](https://companywebsite.com)
-**Company Name** - City, Country | YYYY-MM to YYYY-MM
-- Bullet point achievements and responsibilities
-- Use action words and quantify results when possible
-
----
-
 ## 🎓 **Education**
 
-### [Degree](https://universitywebsite.com)
-**University Name** - City, Country | YYYY-MM to YYYY-MM
+### [Degree]([https://universitywebsite.com](https://www.utp.edu.co/assets/img/escudos/identificadorNew.png))
+**University Name** - Pereira, Colombia | YYYY-MM to YYYY-MM
 - Bullet point highlights of relevant coursework, projects, or achievements
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SMCkillua&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCkillua&layout=compact&theme=radical)
 
 ---
 
