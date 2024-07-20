@@ -5,16 +5,15 @@
 ## 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smc-killua-294893274) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://todaviano)
-
-![png-transparent-bible-administracion-casella-parable-kingship-and-kingdom-of-god-lineas-decorativas-leaf-presentation-branch-removebg-preview](https://github.com/user-attachments/assets/40a09971-c2b8-4741-91c5-17ac48f219e6)
-
+![linea](https://github.com/user-attachments/assets/8bfea091-5c4d-44ba-9293-af4460254f58)
+adge&logo=python&logoColor=white)
 
 ## 🛠️ **Skills**
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
