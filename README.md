@@ -47,5 +47,5 @@
 
 ## 📬 **Contact**
 
-Feel free to reach out to me via [email@domain.com](mailto:jordanvalenciap@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/smc-killua-294893274/).
+Feel free to reach out to me via [EMAIL](mailto:jordanvalenciap@gmail.com?subject=Contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/smc-killua-294893274/).
 
