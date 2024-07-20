@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smc-killua-294893274) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://todaviano)
 
-![---](https://cpng.pikpng.com/pngl/s/330-3303150_lineas-decoradas-png-clipart.png)
+![png-transparent-bible-administracion-casella-parable-kingship-and-kingdom-of-god-lineas-decorativas-leaf-presentation-branch-removebg-preview](https://github.com/user-attachments/assets/40a09971-c2b8-4741-91c5-17ac48f219e6)
+
 
 ## 🛠️ **Skills**
 
