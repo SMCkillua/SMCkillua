@@ -4,7 +4,7 @@
 
 ## 🌐 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smc-killua-294893274) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://todaviano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smc-killua-294893274) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://todaviano)
 
 ---
 
