@@ -1,4 +1,3 @@
-![GIF](https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-q8lnh9t1o9xqpuckc9fk20k0z1d1ncng6rl9gtc7wg.png?x59089)
 # 💼 **Jordan Valencia** - Full Stack Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/SMCkillua?style=social) ![GitHub stars](https://img.shields.io/github/stars/SMCkillua?style=social)
