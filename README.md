@@ -1,72 +1,62 @@
-# 👨‍💻 [Your Name]'s Tech Portfolio
+<div id="header" align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+[Your Name];" />
+    <h3 align="center">A passionate web and software developer from [Your Country]. Always eager to learn and enhance my skills, currently focusing on full-stack development with a keen interest in emerging technologies.</h3>
+</div>
 
-Welcome to my repository! Dive into the technologies and frameworks I specialize in. Each section is equipped with essential details and visual cues.
+<div align="center">
+    <a href="mailto:[your-email@example.com]">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+    </a>
+    <a href="[Your Portfolio URL]">
+        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <br>
+    <h3>Explore my portfolio to see more projects and details about my skills and expertise.</h3>
+</div>
 
----
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
+</div>
 
-## 🧩 Programming Languages
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
-**JavaScript**  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-*The core of interactive web development.*  
-- **Type:** High-Level
-- **Use Cases:** Web apps, Server-side scripting
+### 🎴 About Me:
+- 🍷 **Currently working on:** My portfolio
+- 🌱 **Learning:** PostgreSQL, Laravel, Java, NestJS, NextJS, NuxtJS, Three.JS
+- ❄️ **Ask me about:** JavaScript, React, TypeScript, Angular, Vue.js, Redux, NodeJS, MySQL, Linux, Express, PHP
+- 💻 **Specialize in:** C#, .NET, NETCORE, ASPNET, REACTJS, ANGULAR, PHP, SYMFONY, NODEJS
 
-**TypeScript**  
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  
-*Enhances JavaScript with static types for better tooling.*  
-- **Type:** Superset of JavaScript
-- **Use Cases:** Large-scale applications, Type-safe development
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
----
+<h2 align="center">🀄️ Languages | Frameworks & DB's |</h2>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git,jquery,linux,php&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,java,github,vscode,bootstrap,c,cs,cpp,dotnet,azure,powershell,bash,wordpress&theme=dark" />
+    </a>
+</div>
 
-## 🖥️ Frontend Frameworks & Libraries
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
-**React**  
-![React](https://img.icons8.com/color/48/000000/react-native.png)  
-*Build interactive UIs with ease.*  
-- **Type:** Library
-- **Features:** Component-based architecture, Virtual DOM
+<h2 align="center">🔝 Stats 🔝</h2>
+<div align="center">
+    ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourUsername]&theme=dark)
+    ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[YourUsername]&theme=dark)
+    ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[YourUsername]&theme=dark)&nbsp;&nbsp;
+</div>
 
-**Angular**  
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png)  
-*A comprehensive platform for dynamic web apps.*  
-- **Type:** Framework
-- **Features:** Two-way data binding, Dependency Injection
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
+</div>
 
-**Next.js**  
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)  
-*Optimized React framework for server-side rendering.*  
-- **Type:** Framework
-- **Features:** Static site generation, API routes
-
----
-
-## 🛠️ Backend Frameworks & Tools
-
-**Express**  
-![Express](https://img.icons8.com/color/48/000000/express.png)  
-*Streamline server-side development with Node.js.*  
-- **Type:** Web Framework
-- **Features:** Middleware support, RESTful API creation
-
-**Git**  
-![Git](https://img.icons8.com/color/48/000000/git.png)  
-*Essential for version control and collaboration.*  
-- **Type:** Version Control System
-- **Features:** Branching, Merging
-
----
-
-## 🗄️ Databases
-
-**MySQL**  
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png)  
-*Reliable and widely-used relational database.*  
-- **Type:** Relational Database
-- **Features:** SQL-based queries, Data integrity
-
----
-
-Feel free to explore my work and connect with me for any collaboration or queries. 🚀
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
