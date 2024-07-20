@@ -1,6 +1,6 @@
 # 💼 **[Your Name]** - Full Stack Developer
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SMCkillua?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 ## 🌐 Social Links
 
