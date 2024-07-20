@@ -1,3 +1,4 @@
+![GIF](https://storage.ko-fi.com/cdn/useruploads/post/f9d344fe-3715-41b8-8996-6d844cac422b_scrivaniapreview.gif)
 # 💼 **Jordan Valencia** - Full Stack Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/SMCkillua?style=social) ![GitHub stars](https://img.shields.io/github/stars/SMCkillua?style=social)
