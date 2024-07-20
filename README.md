@@ -1,10 +1,10 @@
-# 💼 **[Your Name]** - Full Stack Developer
+# 💼 **Jordan Valencia** - Full Stack Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/SMCkillua?style=social) ![GitHub stars](https://img.shields.io/github/stars/SMCkillua?style=social)
 
 ## 🌐 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SMCkillua) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
 
