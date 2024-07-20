@@ -31,7 +31,7 @@
 
 ## 🎓 **Education**
 
-### [Bachelor of Engineering in Systems Engineering](https://www.utp.edu.co/assets/img/escudos/identificadorNew.png)
+### Bachelor of Engineering in Systems Engineering
 **University Name** - Pereira, Colombia | 02/2024 - Present
 - Currently pursuing a degree in Systems Engineering with a strong focus on software development, data structures, and algorithms.
 - Completed an intensive Full Stack Development course within the university, gaining hands-on experience in both frontend and backend technologies.
